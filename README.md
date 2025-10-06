@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi! I'm James!
+I am currently learning CyberSecurity as a high school student. I am not doing any specific curriculum, but I am learning a lot. So far, I am learning *operating systems*, *advanced networking*, working on *COMPTIA A+ Certification*. I am also doing guided CTFs on [**_TryHackMe_**](TryHackMe.com).
 
+I usually do not stick to a specific schedule, due to school, sports, and work, but I am trying to become more stable in my schedule.  
+
+Some of my beginner projects are:
+- [Simple PHP Web Shell](https://github.com/dr-pnut/WebShell)
+- [Spectrum Wifi Cracker](https://github.com/dr-pnut/RedTools/tree/main/Dictionaries/SpectrumWifi)
+- [Small File Encryption](https://github.com/dr-pnut/RedTools/tree/main/Malware/FirstRansom)
 <!--
 **dr-pnut/dr-pnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
